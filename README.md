@@ -15,7 +15,7 @@ I am a cybersecurity student at NIIT port harcourt, passionate about offensive a
 ## Project
 | Project | Description | Repository |
 | ------- | ----------- | ---------- |
-| Penetration Testing | |  |
+| Penetration Testing | | https://github.com/inimabrown/penetration-testing-project |
 | Log Analysis | Analyzed IIS and Windows Event Logs to identify attacks | https://github.com/inimabrown/log-analysis-project- |
 | Malware Analysis | | https://github.com/inimabrown/malware-analysis-project/edit/main/README.md |
 | Digital Forensics | | https://github.com/inimabrown/digital-forensics-project |
