@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Inima Brown.
 
-<!--
-**inimabrown/Inimabrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
+I am a cybersecurity student at NIIT port harcourt, passionate about offensive and defensive cybersecurity. I enjoy building practical cybersecurity projects that demostrate real-world skill in:
+- Penetration Testing
+- Log Analysis
+- Malware Analysis
+- Digital Forensics
+- OSINT
+- Threat Hunting
+- Social Engineering
+- Vulnerability Assessment
+- SOC Analysis
+  
+## Project
+| Project | Description | Repository |
+| ------- | ----------- | ---------- |
+| Penetration Testing | |  |
+| Log Analysis | Analyzed IIS and Windows Event Logs to identify attacks |  |
+| Malware Analysis | |  |
+| Digital Forensics | |  |
+| OSINT | Conducted an OSINT investigation on a target organization|  |
+| Threat Hunting | | Coming soon |
+| Social Engineering | | Coming soon |
+| Vulnerability Assessment| |  |
+| SOC Analysis | | Coming soon |
+## Skills
+### Operating Systems
+- Windows
+- Linux
 
-Here are some ideas to get you started:
+### Networking
+- TCP/IP
+- DNS
+- HTTP
+- FTP
+- SSH
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cybersecurity Tools 
+- Nmap
+- Wireshark
+- Burp Suite
+- Splunk
+- Metasploit
+- Git
+- Github
+
+## certifications
+- ISC2 CC
+- CompTIA Security + (In Progress)
+
+## Education
+- NIIT Portharcourt: Cybersecurity program
+
+## Contact
+- Email: inimabrown001@gmail.com
+- Phone:09167637455
